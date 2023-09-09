@@ -24,6 +24,7 @@ const Home = ({ isAuth }) => {
     
     if (isAuth && postLists.find((post) => post.id === id)?.author.id === auth.currentUser.uid) {
       await deleteDoc(postDoc);
+
       setPostList((prevPosts) => prevPosts.filter((post) => post.id !== id));
     }
   };
