@@ -25,7 +25,7 @@ const CreatePost = ({ isAuth }) => {
   // }, []);
 
   return (
-    <div className="container w-50">
+    <div className="container w-50" style={{paddingTop:"100px" }}>
       <div className="createPost mt-5">
         <div className="cpContainer">
           <h1>Create Post</h1>
