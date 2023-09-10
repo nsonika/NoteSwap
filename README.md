@@ -36,9 +36,7 @@ Through the development of NoteSwap, we gained valuable insights and skills, inc
 
 - Effective integration of Firebase into a React application, encompassing authentication, database management, and storage operations.
 
-- Enhancement of UI/UX design skills, resulting in a user-friendly and visually appealing interface.
-
-- Proficiency in providing real-time updates to users when new content is uploaded.
+- Collaborative teamwork and coordination among team members.
 
 ## What's next for NoteSwap 🔮
 
